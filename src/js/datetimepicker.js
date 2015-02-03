@@ -94,7 +94,7 @@
       };
 
       return {
-        restrict: 'E',
+        restrict: 'EA',
         require: 'ngModel',
         template: '<div class="datetimepicker table-responsive">' +
         '<table class="table table-striped">' +
